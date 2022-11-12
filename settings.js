@@ -21,18 +21,18 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['916909137213']
-global.premium = ['916909137213']
-global.ownernomer = '916909137213'
-global.ownername = '🦄Dream Guy Xeon'
-global.botname = 'Cheems Bot MD V2'
+global.owner = ['+201556525349']
+global.premium = ['+201556525349']
+global.ownernomer = '+201556525349'
+global.ownername = '🦄Mohamed Hassan'
+global.botname = 'Cheems Bot mohamed V2'
 global.footer = 'Xeon Bot Inc.'
-global.ig = 'https://github.com/DGXeon'
-global.region = 'India, NorthEast, Mizoram'
+global.ig = 'http://mohamed0hass3.sarhne.com'
+global.region = 'http://mohamed0hass3.sarhne.com'
 global.sc = 'https://github.com/DGXeon/CheemsBot-MD2'
-global.myweb = 'https://youtu.be/imFIX-Wrt3s'
-global.packname = 'Cheems Bot'
-global.author = '🦄Dream Guy Xeon'
+global.myweb = 'http://mohamed0hass3.sarhne.com'
+global.packname = 'Cheems mohamed Bot'
+global.author = '🦄Mohamed hassan 😊'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
@@ -43,7 +43,7 @@ global.mess = {
     owner: 'This Feature Is Only For Owner!',
     group: 'Feature Used Only For Groups!',
     private: 'Features Used Only For Private Chat!',
-    bot: 'This Feature Is Only For Bot',
+    bot: 'This Feature Is Only For mohamed Bot',
     wait: 'In Process...',
     error: 'Error! Maybe Api Key Is Expired🤔!',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
